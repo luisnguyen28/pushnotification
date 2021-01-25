@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "481402853140",
+    "project_id": "calendarnative",
+    "storage_bucket": "calendarnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481402853140:android:7a988aa214433f2fb95401",
+        "android_client_info": {
+          "package_name": "com.calendarnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481402853140-dnb842pej7npilu7081vt522l0ui18oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-XHkMyTiJYG-p2DWKMa-MOC3vDcTSPIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481402853140-dnb842pej7npilu7081vt522l0ui18oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481402853140:android:d495ace13bdc6ba1b95401",
+        "android_client_info": {
+          "package_name": "com.reactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481402853140-dnb842pej7npilu7081vt522l0ui18oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-XHkMyTiJYG-p2DWKMa-MOC3vDcTSPIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481402853140-dnb842pej7npilu7081vt522l0ui18oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
